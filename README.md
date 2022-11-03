@@ -16,3 +16,8 @@ Já desenvolvi um site de apostas na escola onde estudo:
 
 - <a href="https://coltecbet.netlify.app/">Coltecbet</a> :soccer:
 
+Redes para contato: 
+
+- <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-resende-fernandes-b025b71ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+- <a href="https://www.instagram.com/resende_joaoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
