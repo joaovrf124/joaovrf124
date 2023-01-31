@@ -23,4 +23,4 @@ Redes para contato:
 
 - <a href="https://www.instagram.com/resende_joaoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<p><p>Portifolio:</p> <a>https://scintillating-duckanoo-411c47.netlify.app</a></p> 
+<p>Portifolio: <a>href="https://scintillating-duckanoo-411c47.netlify.app"https://scintillating-duckanoo-411c47.netlify.app</a> </p>
